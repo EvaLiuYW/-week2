@@ -1,10 +1,8 @@
 void setup() {
   size(630, 420);
   background(255);
-}
 
 
-void draw() {
   float t=width/6;
   float x0=0;
   float y0=0;
